@@ -4,7 +4,7 @@ import random
 from jokes import bad_jokes, history_jokes, best_jokes
 
 
-bot = telebot.TeleBot("5408840216:AAHuYV1E-caqkQlpZGWbZWmIFmRhz95RAmE")
+bot = telebot.TeleBot("***")
 
 amoral_mem = list(range(1, 21))
 game_mem = list(range(21, 41))
