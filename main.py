@@ -143,7 +143,5 @@ def get_text_or_button_info(message):
 		get_help(message)
 
 
-# Расставить переносы строк, добавить мемов и видео, деплоить
-
 
 bot.polling(none_stop=True)
