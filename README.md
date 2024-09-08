@@ -1,2 +1,2 @@
 # TeleJockeBot
- Телеграмм бот с шутками и мемами :)
+ Telegram bot with jokes and memes :)
